@@ -1,5 +1,5 @@
 # Aerospike Ruby Client
-
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/66f0e254ce4c4d798dd6651a0133abd3)](https://www.codacy.com/app/redBorder/aerospike-client-ruby)
 An Aerospike library for Ruby.
 
 This library is compatible with Ruby 1.9.3+ and supports Linux, Mac OS X and various other BSDs. Rubinius is supported, but not JRuby - yet.
